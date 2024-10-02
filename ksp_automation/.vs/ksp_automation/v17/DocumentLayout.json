@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phone\\source\\repos\\ksp_automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF47ABBE-A6BD-4A67-AAE1-5B4635078C13}|ksp_automation\\ksp_automation.csproj|c:\\users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF47ABBE-A6BD-4A67-AAE1-5B4635078C13}|ksp_automation\\ksp_automation.csproj|solutionrelative:ksp_automation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF47ABBE-A6BD-4A67-AAE1-5B4635078C13}|ksp_automation\\ksp_automation.csproj|c:\\users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF47ABBE-A6BD-4A67-AAE1-5B4635078C13}|ksp_automation\\ksp_automation.csproj|solutionrelative:ksp_automation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF47ABBE-A6BD-4A67-AAE1-5B4635078C13}|ksp_automation\\ksp_automation.csproj|c:\\users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\kspdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF47ABBE-A6BD-4A67-AAE1-5B4635078C13}|ksp_automation\\ksp_automation.csproj|solutionrelative:ksp_automation\\kspdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KSPData.cs",
+              "DocumentMoniker": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\KSPData.cs",
+              "RelativeDocumentMoniker": "ksp_automation\\KSPData.cs",
+              "ToolTip": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\KSPData.cs",
+              "RelativeToolTip": "ksp_automation\\KSPData.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAAAJUBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:23:22.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\Form1.cs",
+              "RelativeDocumentMoniker": "ksp_automation\\Form1.cs",
+              "ToolTip": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\Form1.cs",
+              "RelativeToolTip": "ksp_automation\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:31:07.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\Form1.cs",
+              "RelativeDocumentMoniker": "ksp_automation\\Form1.cs",
+              "ToolTip": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\Form1.cs [Design]",
+              "RelativeToolTip": "ksp_automation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:24:16.892Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
