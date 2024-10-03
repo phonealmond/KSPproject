@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ksp_automation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3380d1b0c97a618988feadd9ee2dc6c5bc0eed86")]
 [assembly: System.Reflection.AssemblyProductAttribute("ksp_automation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ksp_automation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

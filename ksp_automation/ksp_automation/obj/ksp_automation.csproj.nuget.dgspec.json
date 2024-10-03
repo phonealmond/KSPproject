@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\ksp_automation.csproj": {}
+    "C:\\My Repo\\Project\\KSPproject\\ksp_automation\\ksp_automation\\ksp_automation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\ksp_automation.csproj": {
+    "C:\\My Repo\\Project\\KSPproject\\ksp_automation\\ksp_automation\\ksp_automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\ksp_automation.csproj",
+        "projectUniqueName": "C:\\My Repo\\Project\\KSPproject\\ksp_automation\\ksp_automation\\ksp_automation.csproj",
         "projectName": "ksp_automation",
-        "projectPath": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\ksp_automation.csproj",
-        "packagesPath": "C:\\Users\\phone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phone\\source\\repos\\ksp_automation\\ksp_automation\\obj\\",
+        "projectPath": "C:\\My Repo\\Project\\KSPproject\\ksp_automation\\ksp_automation\\ksp_automation.csproj",
+        "packagesPath": "C:\\Users\\chemuel\\.nuget\\packages\\",
+        "outputPath": "C:\\My Repo\\Project\\KSPproject\\ksp_automation\\ksp_automation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\phone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chemuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
