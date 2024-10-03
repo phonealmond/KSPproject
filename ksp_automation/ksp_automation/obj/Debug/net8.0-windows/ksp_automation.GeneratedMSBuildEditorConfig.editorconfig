@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ksp_automation
-build_property.ProjectDir = C:\Users\phone\source\repos\ksp_automation\ksp_automation\
+build_property.ProjectDir = C:\Users\bober\source\repos\NewCopiedRepository\KSPproject\ksp_automation\ksp_automation\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
